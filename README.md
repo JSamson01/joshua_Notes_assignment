@@ -9,6 +9,7 @@ PROJECT LIBRARIES: Lifecycle Management And Data Persistence among others
 PROJECT IDEA:
 -	The project idea is to design and develop a mobile application an app using Architecture Components such as Room, ViewModel, and LiveData.
 -	This mobile app is expected to do the following:
+
 a)	Implements our recommended architecture using the Android Architecture Components.
 b)	Works with a database to get and save the data and pre-populates the database with some words.
 c)	Displays all the words in a RecyclerView in MainActivity.
