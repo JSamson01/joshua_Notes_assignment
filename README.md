@@ -19,9 +19,9 @@ b)	Works with a database to get and save the data and pre-populates the database
 
 c)	Displays all the words in a RecyclerView in MainActivity.
 
-d)	Opens a second activity when the user taps the + button. When the user enters a word, adds the word to the database and the list.
+d)	Opens a second activity when the user taps the "+" button. 
+When the user enters a word, adds the word to the database and the list.
 
-The app is no-frills, but sufficiently complex that you can use it as a template to build upon
 
 **SAMPLE PREVIEW OF WORK DONE:** 
 
