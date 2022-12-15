@@ -11,8 +11,11 @@ PROJECT IDEA:
 -	This mobile app is expected to do the following:
 
 a)	Implements our recommended architecture using the Android Architecture Components.
+
 b)	Works with a database to get and save the data and pre-populates the database with some words.
+
 c)	Displays all the words in a RecyclerView in MainActivity.
+
 d)	Opens a second activity when the user taps the + button. When the user enters a word, adds the word to the database and the list.
 The app is no-frills, but sufficiently complex that you can use it as a template to build upon
 
